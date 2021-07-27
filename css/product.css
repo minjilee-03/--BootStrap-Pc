@@ -1,0 +1,69 @@
+.product-row{
+    padding-bottom: 150px;
+}
+.product-row  .container 
+.title{
+    padding-top: 100px;
+    text-align: left;
+}
+.product-row  .container 
+.product-item-wrap .product-item{
+    border-radius: 20px;
+    background: #fff5d6;
+    height: 700px;
+}
+.product-row  .container 
+.product-item-wrap .product-item .product-item-img-box {
+    width: 100%;
+}
+
+.product-row  .container 
+.product-item-wrap .product-item .product-item-img-box img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.product-row  .container 
+.product-item-wrap .product-item .product-item-txt-box {
+    text-align: center;
+    padding: 50px;
+}
+
+.product-row .container
+.product-item-wrap .product-item .product-item-txt-box .product-item-title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #676d72;
+    line-height: 30px;
+}
+
+.product-row .container
+.product-item-wrap .product-item .product-item-txt-box .product-item-info {
+    font-size: 15px;
+    color: #676d72;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.product-row .container
+.product-item-wrap .product-item .product-item-txt-box .product-price {
+    color: #676d72;
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 25px;
+    line-height: 30px;
+}
+
+.product-row  .container 
+.product-item-wrap .product-item .product-item-txt-box .product-see-more-btn {
+    display: inline-block;
+    height: 25px;
+    padding-right: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    margin: 25px;
+    color: #f9ce42;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/btn-more-visual-m.png)right center no-repeat;
+    background-size: auto 25px;
+}

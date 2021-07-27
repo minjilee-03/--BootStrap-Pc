@@ -1,0 +1,12 @@
+.instagram-container {
+    padding-bottom: 100px;
+}
+
+.instagram-container .instagram-row .instagram-title {
+    font-size: 31px;
+    line-height: 23px;
+    text-align: center;
+    color: #676d72;
+    font-weight: 600;
+    padding: 150px;
+}
