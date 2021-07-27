@@ -1,5 +1,11 @@
 .instagram-container {
+    margin-top: 150px;
     padding-bottom: 100px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .instagram-container .instagram-row .instagram-title {
@@ -8,5 +14,4 @@
     text-align: center;
     color: #676d72;
     font-weight: 600;
-    padding: 150px;
 }
