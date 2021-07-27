@@ -1,0 +1,112 @@
+.about-container .container .about-row {
+    height: auto;
+    width: 100%;
+}
+
+.about-container .container .about-row-02 {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+.about-container .container .about-row-04 {
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+.about-container .container .about-row .about-img-box{
+    border-radius: 20px;
+}
+
+.about-container .container .about-row .about-txt-box {
+    border: 1px solid blue;
+    height: 611px;
+    padding: 100px 0px 0px 120px;
+}
+
+.about-container .container .about-row-01 .about-img-box{
+    height: 611px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-main-info01-m.png)center center no-repeat;
+    background-size: auto 611px;
+}
+
+.about-container .container .about-row-02 .about-img-box{
+    height: 611px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-main-info02-m.png)center center no-repeat;
+    background-size: auto 611px;
+}
+
+.about-container .container .about-row-03 .about-img-box{
+    height: 611px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-main-info03-m.png)center center no-repeat;
+    background-size: auto 611px;
+}
+
+.about-container .container .about-row-04 .about-img-box {
+    height: 611px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-main-info04-m.png)center center no-repeat;
+    background-size: auto 611px;
+}
+
+.main-container .about .about-container-section .about-section .about-txt-box {
+    width: 100%;
+    text-align: center;
+}
+
+.about-container .container .about-row-01 .about-txt-box .about-icon {
+    padding-top: 125px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/main-info-txt011-m.png) left 0 no-repeat;
+    background-size: 125px auto;
+}
+
+.about-container .container .about-row-02 .about-txt-box .about-icon  {
+    padding-top: 125px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/main-info-txt021-m.png) left 0 no-repeat;
+    background-size: 125px auto;
+}
+
+.about-container .container .about-row-03 .about-txt-box .about-icon  {
+    padding-top: 125px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/main-info-txt031-m.png) left 0 no-repeat;
+    background-size: 125px auto;
+}
+
+.about-container .container .about-row-04 .about-txt-box .about-icon  {
+    padding-top: 125px;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/main-info-txt041-m.png) left 0 no-repeat;
+    background-size: 125px auto;
+}
+.about-container .container .about-row .about-txt-box
+.about-read-more-btn {
+    height: 25px;
+    display: inline-block;
+    margin-top: 10px;
+    padding-right: 42px;
+    font-size: 14px;
+    line-height: 25px;
+    color: #676d72;
+    letter-spacing: -0.45px;
+    font-weight: 400;
+    background: url(https://www.noelohills.com/web/upload/noelo/main/btn-read-more.png)right center no-repeat;
+    background-size: auto 25px;
+}
+
+.about-container .container .about-row .about-txt-box
+.about-title {
+    color: #676d72;
+    font-size: 30px;
+    letter-spacing: -0.45px;
+}
+
+.about-container .container .about-row .about-txt-box
+.about-info {
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -1px;
+    color: #676d72;
+}
