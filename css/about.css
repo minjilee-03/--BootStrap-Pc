@@ -1,6 +1,7 @@
 .about-container .container .about-row {
     height: auto;
     width: 100%;
+    margin: 20px 0px 20px 0px;
 }
 
 .about-container .container .about-row-02 {
@@ -24,7 +25,6 @@
 }
 
 .about-container .container .about-row .about-txt-box {
-    border: 1px solid blue;
     height: 611px;
     padding: 100px 0px 0px 120px;
 }
