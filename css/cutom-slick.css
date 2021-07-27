@@ -1,0 +1,24 @@
+.slick-dots {
+    position: absolute;
+    top: 680px;
+    right: 615px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.slick-dots li {
+    margin: 0;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: #ffcf42;
+}
+
+.slick-dots li button:before {
+    opacity: 100;
+    color: #fff;
+}
