@@ -1,24 +1,80 @@
 .promis-row {
     width: 100%;
-    height: auto;
     padding: 70px 0 90px 0;
 }
 
 .promis-row .container .title {
     text-align: center;
-    margin-bottom: 50px;
+    margin-top: 90px;
 }
 
 .promis-row .container .title span {
     width: 100%;
     color: #f9ce42;
     font-weight: 700;
-    font-size: 13px;
+    font-size: 15px;
+    letter-spacing: 5px;
+    line-height: 50px;
 }
 
 .promis-row .container .title strong {
     width: 100%;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 500;
     color: #676d72;
+}
+
+.promis-row .container .promis-list {
+    height: 500px;
+}
+
+.promis-row .container .promis-list-01 {
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-promiss01-m.png) center top no-repeat;
+    background-size: auto 185px;
+    margin-top: 70px;
+    padding-top: 195px;
+    text-align: center;
+}
+
+.promis-row .container .promis-list-02 {
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-promiss02-m.png) center top no-repeat;
+    background-size: auto 185px;
+    margin-top: 70px;
+    padding-top: 195px;
+    text-align: center;
+}
+
+.promis-row .container .promis-list-03 {
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-promiss03-m.png) center top no-repeat;
+    background-size: auto 185px;
+    margin-top: 70px;
+    padding-top: 195px;
+    text-align: center;
+}
+
+.promis-row .container .promis-list-04 {
+    background: url(https://www.noelohills.com/web/upload/noelo/main/bg-promiss04-m.png) center top no-repeat;
+    background-size: auto 185px;
+    margin-top: 70px;
+    padding-top: 195px;
+    text-align: center;
+}
+
+.promis-row .container .promis-list .promis-list-dl .promis-list-dt {
+    width: 100%;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    color: #676d72;
+    letter-spacing: -0.45px;
+}
+
+.promis-row .container .promis-list .promis-list-dl .promis-list-dd {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    font-size: 14px;
+    color: #676d72;
+    letter-spacing: -0.45px;
 }
