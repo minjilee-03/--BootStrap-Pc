@@ -1,9 +1,25 @@
 .footer-container {
-    height: 500px;
+    height: auto;
     background-color: #f9f9f9;
+    padding: 50px 0px 0px 0px;
 }
-
-.footer-container .footer {
-    padding-right: 10px;
-    padding-left: 10px;
+.footer-container .footer .footer-item{
+    width: auto;
+    font-size: 15px;
+    margin-bottom: 40px;
+    margin-right: 50px;
+}
+.footer-container .footer .footer-item-01 {
+    color: #f9ce42;
+    width: 140px;
+}
+.footer-container .footer .footer-item-01:after {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: 10px;
+    background: url(https://noelohills.com/web/upload/noelo/common/ico-info-btn.png) no-repeat;
+    vertical-align: middle;
+    margin-top: -4px;
 }
